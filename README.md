@@ -20,6 +20,7 @@
     />
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/fe7rodrigues/github-readme-stats)
 
 Apaixonado pelo mundo da  tecnologia .
 
