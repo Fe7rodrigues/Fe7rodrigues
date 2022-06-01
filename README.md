@@ -50,7 +50,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fe7rodrigues&layout=compact)](https://github.com/fe7rodrigues/github-readme-stats)
 
-Apaixonado pelo mundo da  tecnologia .
-
-## Email para contato: 
-fe7rodrigues@gmail.com
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> &nbsp; Contato:
+<p align="center">
+  <a href="mailto:fe7rodrigues@gmail.com" >
+    <img align="center" alt="NycolasSM | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
