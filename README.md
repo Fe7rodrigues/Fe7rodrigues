@@ -19,10 +19,6 @@
 
 - 🌱 Explorando novas tecnologias, técnicas e soluções.
    </td>
-    <td>
-      <img align="right" src="https://raw.githubusercontent.com/NycolasSM/assets/main/message.gif" alt="Programmation" width="950px" />
-    </td>
-</tr>
 </table>
 
 </br>
@@ -30,6 +26,10 @@
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/)
+
+
+[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a> href="mailto:fe7rodrigues@gmail.com"</a>)
+
 
 ![Fernando Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=fe7rodrigues&show_icons=true&theme=dracula)
 
@@ -52,14 +52,13 @@
 
 <br>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> &nbsp; Contato:
-<p align="center">
-  <a href="mailto:fe7rodrigues@gmail.com" >
-    <img align="center" alt="FernandoR | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/" target="_blank">
-    <img align="center" alt="FernandoRodrigues | Linkedin" width="24px" src= src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"  />
-  </a> &nbsp;&nbsp;
+
+Contato:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/)
+
+
+[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a> href="mailto:fe7rodrigues@gmail.com"</a>)
 
 
 <br>
