@@ -49,10 +49,13 @@
 
 <h3>Contatos:<h3>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/)
+<p align="center">
+  <a href="mailto:fe7rodrigues@gmail.com" >
+    <img align="center" alt="FernandoR | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a>   
+  
+  <a href="https://https://www.linkedin.com/in/fernando-rodrigues-69251a1a2//" target="_blank">
+    <img align="center" alt="FernandoR | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a>   
 
-
-[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
-
-
-<br>
+  <p>
