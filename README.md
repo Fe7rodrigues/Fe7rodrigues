@@ -49,7 +49,7 @@
 <br>
 
 
-## Conttatos:
+## Contatos:
 
 <p align="center">
   <a href="mailto:fe7rodrigues@gmail.com" >
