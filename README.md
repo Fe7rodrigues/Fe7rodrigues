@@ -9,7 +9,7 @@
 <tr>
     <td>
 
-####  Me considero uma pessoa dedicada e que busque evoluir e aprender mais a cada dia, sou apaixonado pelo desenvolvimento web e mobile, busco sempre dar o meu melhor e me dedicar para que eu possa ser um grande profissional na área, buscando sempre estar pronto para superar qualquer desafio! 😀
+####  Me considero uma pessoa dedicada e que busca evoluir e aprender mais a cada dia, sou apaixonado pelo desenvolvimento web e mobile, busco sempre dar o meu melhor e me dedicar para que eu possa ser um grande profissional na área, buscando sempre estar pronto para superar qualquer desafio! 😀
 
   </br>
   
