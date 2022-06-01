@@ -47,14 +47,14 @@
 <br>
 
 
-<h3>Contatos:<h3>
+## Contatos:
 
 <p align="center">
   <a href="mailto:fe7rodrigues@gmail.com" >
     <img align="center" alt="FernandoR | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a>   
   
-  <a href="https://https://www.linkedin.com/in/fernando-rodrigues-69251a1a2//" target="_blank">
+  <a href="https://https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/" target="_blank">
     <img align="center" alt="FernandoR | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a>   
 
