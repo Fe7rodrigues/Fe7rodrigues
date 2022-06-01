@@ -1,6 +1,34 @@
 ### Olá! Eu sou o Fernando Rodrigues 👍
 
 
+<table border="0px">
+<tr>
+   <td>Um pouco sobre mim</td>
+    <td></td>
+</tr>
+<tr>
+    <td>
+
+####  Me considero uma pessoa dedicada e que busque evoluir e aprender mais a cada dia, sou apaixonado pelo desenvolvimento web e mobile, busco sempre dar o meu melhor e me dedicar para que eu possa ser um grande profissional na área, buscando sempre estar pronto para superar qualquer desafio! 😀
+
+  </br>
+  
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas - UNIP
+
+- 📚 No momento estou estudando: OneBitCode Fullstack JavaScript
+
+- 🌱 Explorando novas tecnologias, técnicas e soluções.
+   </td>
+    <td>
+      <img align="right" src="https://raw.githubusercontent.com/NycolasSM/assets/main/message.gif" alt="Programmation" width="950px" />
+    </td>
+</tr>
+</table>
+
+</br>
+</br>
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/)
 
 ![Fernando Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=fe7rodrigues&show_icons=true&theme=dracula)
