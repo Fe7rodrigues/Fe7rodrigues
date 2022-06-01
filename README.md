@@ -57,15 +57,9 @@
   <a href="mailto:fe7rodrigues@gmail.com" >
     <img align="center" alt="FernandoR | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  
   <a href="https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/" target="_blank">
-    <img align="center" alt="FernandoRodrigues | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+    <img align="center" alt="FernandoRodrigues | Linkedin" width="24px" src= src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg"  />
   </a> &nbsp;&nbsp;
 
 
 <br>
-  
-<div align="center">
-  : heart_eyes : Obrigado por visualizar meu perfil! Tenha um ótimo dia! : piscada : <br/>
-</div>
-
