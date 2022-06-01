@@ -25,12 +25,6 @@
 </br>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/)
-
-
-[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a> href="mailto:fe7rodrigues@gmail.com"</a>)
-
-
 ![Fernando Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=fe7rodrigues&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia 
@@ -53,12 +47,12 @@
 <br>
 
 
-Contato:
+<h3>Contatos:<h3>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-rodrigues-69251a1a2/)
 
 
-[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a> href="mailto:fe7rodrigues@gmail.com"</a>)
+[![Gmail(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 
 <br>
